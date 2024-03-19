@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "streambuf": "cpp",
+        "regex": "cpp"
+    }
+}
